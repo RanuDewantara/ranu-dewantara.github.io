@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Oxanium;
+  src: url(./assets/fonts/Oxanium.ttf);
+}
+
+@font-face {
+  font-family: Orbitron;
+  src: url(./assets/fonts/Orbitron.ttf);
+}
+
+@font-face {
+  font-family: Fira;
+  src: url(./assets/fonts/FiraCode.ttf);
+}
